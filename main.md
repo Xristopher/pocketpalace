@@ -30,8 +30,8 @@ This token conveys the following ownership benefits to anyone who possesses the 
   * move the location of the exit door to a known location. This is done from within the palace and takes 1d6 hours to accomplish. When attempting to move the door, you must make a WIS ST. The base DC is 14, with the following modifications:
     * +3 if the door is being moved across planes.
     * +5 if you have never seen the location in person.
-    * -1 if the new location is well known to you.
-    * -1 if the new locaiton is connected to you in some way (lived there for more than 1 year, throughly researched, etc.)
-    * -2 if an ally is at that location and some form of communication exists between you and that ally.
+    * -2 if the new location is well known to you.
+    * -1 if the new location is connected to you in some way (lived there, throughly researched, etc.)
+    * -3 if an ally is at that location and some form of communication exists between you and that ally.
  
  
